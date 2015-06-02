@@ -12,7 +12,7 @@ Compatibel and tested with Apache OpenOffice 4 and LibreOffice 4
  
  
 ##Installation instructions  
-Download OXT file and install with _Tools>Extension Manager>Add_.  
+Download OXT file **from Releases page** and install with _Tools>Extension Manager>Add_.  
 This will install a Library "ATL2" in your Macro installation.  
 
 ##Run the Extension
