@@ -1,6 +1,7 @@
 # ATL2
-##AutoTextListe2
 OpenOffice Macro to list Autotext entries to a Writer document.
+
+##AutoTextListe2
 
 OpenOffice Macro to list Autotext entries to a Writer document.  
 Extension of OOo's macro "AutoText" in library "Gimmicks", delivered since OOo 1.1.x (which only lists name and shortcut of an AutoText).
